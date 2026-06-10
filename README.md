@@ -152,11 +152,8 @@ Based on the analysis:
 ### Overview Dashboard
 (Add Screenshot Here)
 
-### Audience Analysis
-(Add Screenshot Here)
-
-### Performance Insights
-(Add Screenshot Here)
+### Instagram Analysis
+Dashboard images/Instagram dashboard.png
 
 ---
 
