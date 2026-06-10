@@ -2,24 +2,24 @@
 
 ## 🚀 Project Overview
 
-The Meta Ad Performance Analysis Dashboard is an interactive Power BI solution designed to evaluate the effectiveness of digital advertising campaigns running on Facebook and Instagram.
+The Meta Ad Performance Analysis Dashboard is an interactive Power BI project designed to analyze the effectiveness of digital advertising campaigns running on Facebook and Instagram.
 
-The dashboard provides a comprehensive view of campaign performance by analyzing reach, engagement, conversions, audience demographics, geographic distribution, and budget utilization. It enables marketing teams to make data-driven decisions and optimize advertising strategies for better ROI.
+This dashboard provides a complete view of campaign performance, including reach, engagement, conversions, audience demographics, geographic distribution, and budget utilization. It helps in making data-driven marketing decisions and improving overall ROI.
 
 ---
 
 ## 🎯 Business Objective
 
-Organizations invest significant budgets in digital advertising and require clear visibility into campaign performance.
+Digital advertising campaigns require continuous monitoring to ensure optimal performance and return on investment.
 
-This dashboard helps answer key business questions:
+This project helps answer key business questions:
 
-- Which ad formats generate the highest engagement?
-- Which audience segments respond best to campaigns?
-- Which countries contribute the most engagement?
-- What time periods drive maximum user interaction?
-- How effectively are impressions converted into purchases?
-- How should advertising budgets be optimized?
+- Which ad formats perform best in terms of engagement?
+- Which audience segments are most responsive?
+- Which countries generate the highest engagement?
+- What time periods show peak user activity?
+- How efficiently are impressions converting into purchases?
+- How can advertising budgets be optimized?
 
 ---
 
@@ -29,14 +29,14 @@ This dashboard helps answer key business questions:
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Modeling
-- Interactive Dashboard Design
-- Business Intelligence & Analytics
+- Data Visualization
+- Business Intelligence
 
 ---
 
 ## 📂 Data Model
 
-The project follows a **Star Schema Data Model** for efficient reporting and analysis.
+The project is built using a **Star Schema Data Model**:
 
 ### Fact Table
 - Ad Events
@@ -46,13 +46,13 @@ The project follows a **Star Schema Data Model** for efficient reporting and ana
 - Campaigns
 - Users
 
-This structure enables scalable KPI calculations and high-performance dashboard interactions.
+This structure enables efficient KPI calculations and scalable analytics.
 
 ---
 
 ## 📈 Key Performance Indicators (KPIs)
 
-The dashboard tracks and analyzes:
+The dashboard includes the following KPIs:
 
 - Impressions
 - Clicks
@@ -71,64 +71,62 @@ The dashboard tracks and analyzes:
 
 ## 📊 Dashboard Features
 
-### Executive KPI Overview
-Provides a high-level summary of campaign performance and advertising effectiveness.
+### KPI Overview
+High-level summary of overall campaign performance.
 
 ### Audience Analysis
-- Gender-based engagement analysis
-- Age-group performance analysis
-- Audience targeting insights
+- Gender-based engagement
+- Age group analysis
+- Target audience insights
 
 ### Geographic Analysis
-- Country-wise campaign performance
-- Regional engagement comparison
+- Country-wise performance
+- Region-based engagement comparison
 
 ### Time-Based Analysis
 - Weekly engagement trends
-- Hourly engagement patterns
-- Calendar heatmap visualization
+- Hourly activity patterns
+- Calendar heatmap analysis
 
 ### Ad Performance Analysis
-- Ad type comparison
-- Campaign effectiveness measurement
-- Conversion funnel evaluation
+- Ad type comparison (Video, Image, Carousel, Stories)
+- Conversion funnel analysis
+- Campaign effectiveness tracking
 
 ---
 
-## 🔍 Key Insights Generated
+## 🔍 Key Insights
 
 ### Audience Insights
-- Female audiences generated the highest engagement.
-- Users aged 18–30 represented the most active audience segment.
+- Female users showed higher engagement compared to male users.
+- Age group 18–30 was the most active audience segment.
 
 ### Geographic Insights
-- India and the United States demonstrated strong engagement levels.
-- Premium markets showed better conversion potential.
+- India and United States contributed the highest engagement.
+- Some regions showed higher conversion potential.
 
 ### Ad Performance Insights
-- Video advertisements delivered the highest overall performance.
-- Story advertisements also showed strong engagement and reach.
+- Video ads performed better than other ad formats.
+- Story ads also showed strong engagement levels.
 
 ### Time-Based Insights
-- User engagement peaked during afternoon and evening hours.
-- Promotional campaigns created noticeable spikes in engagement activity.
+- Engagement peaks during afternoon and evening hours.
+- Campaign spikes were observed during specific promotional periods.
 
 ### Conversion Insights
-- Campaigns achieved strong awareness and engagement metrics.
-- Purchase conversion rates indicate opportunities for landing page and retargeting optimization.
+- Strong engagement and awareness were observed.
+- Conversion rate can be improved through better landing pages and retargeting.
 
 ---
 
 ## 💡 Business Recommendations
 
-Based on the analysis:
-
-1. Increase investment in Video and Story advertisements.
-2. Focus targeting on high-performing demographic segments.
-3. Optimize landing pages to improve conversion efficiency.
-4. Schedule campaigns during peak engagement periods.
-5. Allocate budget toward top-performing regions and audiences.
-6. Implement retargeting strategies to improve purchase rates.
+- Increase budget allocation for Video and Story ads.
+- Focus on high-performing age groups (18–30).
+- Improve landing page optimization to increase conversions.
+- Schedule ads during peak engagement hours.
+- Focus marketing efforts on top-performing countries.
+- Use retargeting strategies to improve purchase rates.
 
 ---
 
@@ -136,36 +134,36 @@ Based on the analysis:
 
 - Data Cleaning & Transformation
 - Data Modeling
-- DAX Measure Development
-- KPI Design
+- DAX Calculations
+- KPI Development
 - Business Analysis
 - Marketing Analytics
-- Dashboard Development
+- Dashboard Design
 - Data Visualization
-- Storytelling with Data
+- Data Storytelling
 - Performance Reporting
 
 ---
 
 ## 📸 Dashboard Preview
 
-### Overview Dashboard
-(Add Screenshot Here)
+### Facebook Analysis
+![Facebook Dashboard](images/facebook-dashboard.png)
 
 ### Instagram Analysis
-Dashboard images/Instagram dashboard.png
+![Instagram Dashboard](images/instagram-dashboard.png)
 
 ---
 
 ## 📚 Learning Outcome
 
-Through this project, I gained practical experience in:
+Through this project, I gained hands-on experience in:
 
 - Building end-to-end Power BI dashboards
-- Designing business-focused KPIs
+- Creating business-focused KPIs
 - Analyzing marketing campaign performance
-- Creating interactive visualizations
-- Translating data into actionable business recommendations
+- Designing interactive visualizations
+- Translating raw data into actionable insights
 
 ---
 
@@ -173,6 +171,8 @@ Through this project, I gained practical experience in:
 
 **Veena R**
 
-Aspiring Data Analyst | Power BI Developer | Electronics & Communication Engineering Student
+Aspiring Data Analyst | Power BI Developer | ECE Engineering Student | Skilled in Power BI, DAX & Data Visualization
+
+GitHub: https://github.com/im-veena
 
 
